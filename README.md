@@ -1,3 +1,2 @@
-# jenkin-demo
-practice with jenkin
-m
+My First Jenkins Project
+Learning CI/CD with GitHub and Jenkins.
